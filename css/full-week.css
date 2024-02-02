@@ -31,3 +31,30 @@ li {
   margin: 32px;
   padding: 16px;
 }
+
+/* #description {
+  margin-bottom: 36px;
+} */
+
+header p {
+  margin-bottom: 36px;
+}
+
+h2 {
+  color: rgb(78, 13, 5);
+  font-family: "Oswald", sans-serif;
+}
+
+/* main p {
+  margin: 12px;
+  color: rgb(71, 29, 22);
+} */
+
+.daily-goal {
+  margin: 12px;
+  color: rgb(71, 29, 22);
+}
+
+.highlight-goal {
+  background-color: rgb(224, 124, 111);
+}
