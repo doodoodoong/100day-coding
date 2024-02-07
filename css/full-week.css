@@ -32,9 +32,9 @@ li {
   padding: 16px;
 }
 
-/* #description {
+#description {
   margin-bottom: 36px;
-} */
+}
 
 header p {
   margin-bottom: 36px;
@@ -56,5 +56,9 @@ h2 {
 }
 
 .highlight-goal {
-  background-color: rgb(224, 124, 111);
+  background-color: rgb(226, 115, 101);
+}
+
+header {
+  margin-bottom: 64px;
 }
